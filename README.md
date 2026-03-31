@@ -6,13 +6,29 @@ Welcome to my project showcase! Here you can explore my work from my **Bachelor�
 
 ## 📂 Repositories
 
-You will find two repositories containing collections of my projects and labs:  
+You will find two repositories containing collections of my projects and labs.
 
 ⚠️ **Note:** My Master’s projects are still in development. More will come at the end of the semester.
 
 ---
 
 ## 🌟 Featured Projects
+
+| Project | Summary |
+| --- | --- |
+| Algorithmics Lab | Terminal-based dungeon crawler in C with `ncurses`. |
+| Algebra of Programming | Formal program construction in Haskell with recursion schemes. |
+| Object-Oriented Programming | Java fitness application with profiles, plans, and statistics. |
+| Computational Logic | SAT, Z3, verification, and hybrid systems practical assignments. |
+| Databases | Olympic Games database design and implementation project. |
+| Language & Compiler Processing | Text data processing plus a custom imperative language compiler. |
+| Interaction & Concurrency | Quantum computing and reactive systems assignments. |
+| Concurrent Programming | Multiplayer client-server dueling game (Java + Erlang). |
+| Data and Machine Learning | Prediction of road traffic conditions in Porto using Machine Learning |
+| Network Services Engineering | Over-the-Top (OTT) multimedia streaming service. |
+| Software Requirements and Architectures | Web-based image editing platform with AI-powered and traditional features. |
+
+---
 
 Here are some highlights I recommend you check:
 
