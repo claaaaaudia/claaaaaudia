@@ -11,21 +11,29 @@ Here you can see some projects from my Bachelor’s Degree in Computer Science a
 
 ## 🌟 Here's some projects I recommend you check:
 
-- 🧠 **Computational Logic**: A set of 4 practical assignments exploring formal methods and verification.  
-- 🧮 **Algebra of Programming**: A project focused on formal and algebraic approaches to program construction using Haskell.  
-- 🚦 **Data and Machine Learning**: A project focused on predicting road traffic conditions in Porto using Machine Learning techniques and real-world data.  
+- 🧠 **Computational Logic**: A set of 4 practical assignments exploring formal methods and verification. Available in the BSc Computer Science repository.
+- 🧮 **Algebra of Programming**: A project focused on formal and algebraic approaches to program construction using Haskell. Available in the BSc Computer Science repository.
+- 🚦 **Data and Machine Learning**: A project focused on predicting road traffic conditions in Porto using Machine Learning techniques and real-world data. Available in the MSc Informatics Engineering repository.
 
 ---
 
 ## 🔒 Other projects not (yet) public that you can ask me about:
 
+- 🤖 **Arduino**: 
+  Week-long project at Critical Software learning the basics of Robotics while    solving classical Arduino problems.  
+
 - 🛰️ **Simulating Satellite Communication Links with Ground Stations**:  
   Summer Internship project done at INESC TEC in July of 2025. Studied and explored how parameters, modulation and spread spectrum techniques affect performance in critical systems affected by interference, such as military systems. The repo isn't available here, but I'm happy to talk about it!
 
 - 🪐 **Pocket+ Verification**:  
-  Implementation of the compression and decompression algorithms of POCKET+, an ESA patented lossless compression algorithm, to be reverse engineered, in order to formally verify some important behavioral properties of the protocol. Still in development, stay tuned!
+  POCKET+ is an ESA patented lossless compression algorithm implemented using very low-level instructions such as OR, XOR, AND, etc. This makes it suitable for use in combination with "fire and forget" protocols in noisy transmission environments such as those found in space-to-ground RF links.
+  In this project, an implementation of the compression/decompression algorithms made publicly available by the OPS-SAT Lab is being reverse engineered in Haskell, with the purpose of formally proving its correctness. 
+  Developed in the context of the Project in Formal Methods of Programming. Still in development, stay tuned!
 
-- 🤖 **Arduino**: Week-long project at Critical Software learning the basics of Robotics while solving classical Arduino problems.  
+- 🌐 **Decentralized Mesh Network with Yggdrasil**: 
+  Implementation of an Yggdrasil network, with a cryptographic and geometrical routing model, along with basic web services for robustness testing. Performance and QoS will be measured, documented and compared to traditional networks. 
+  This project intends to analyse the self-healing capacity of the network in cases of node failure and demonstrate how the convergence of cryptography and geometric routing can result in a scalable, private and censorship-resistant global network. 
+  Developed in the context of the Project in Next Generation Networks. Still in development, stay tuned!
 
 ---
 
