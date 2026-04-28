@@ -8,11 +8,9 @@ Welcome to my project showcase! Here you can explore my work from my **Bachelor�
 
 You will find two repositories containing collections of my projects and labs.
 
-⚠️ **Note:** My Master’s projects are still in development. More will come at the end of the semester.
-
 ---
 
-## 🌟 Featured Projects
+## 🌟 Bacherlor's Projects
 
 | Project | Summary |
 | --- | --- |
@@ -24,9 +22,20 @@ You will find two repositories containing collections of my projects and labs.
 | Language & Compiler Processing | Text data processing plus a custom imperative language compiler. |
 | Interaction & Concurrency | Quantum computing and reactive systems assignments. |
 | Concurrent Programming | Multiplayer client-server dueling game (Java + Erlang). |
+
+---
+
+## 🌕 Master's Projects
+
+| Project | Summary |
+| --- | --- |
 | Data and Machine Learning | Prediction of road traffic conditions in Porto using Machine Learning. |
 | Network Services Engineering | Over-the-Top (OTT) multimedia streaming service. |
 | Software Requirements and Architectures | Web-based image editing platform with AI-powered and traditional features. |
+| Formal Verification | *Coming soon* |
+| Cyber-Physical Programming | *Coming soon* |
+| Software Defined Networks | *Coming soon* |
+| New Network Paradigms | *Coming soon* |
 
 ---
 
