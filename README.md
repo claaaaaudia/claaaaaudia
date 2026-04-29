@@ -10,7 +10,7 @@ You will find two repositories containing collections of my projects and labs.
 
 ---
 
-## 🌟 Bacherlor's Projects
+## 🌟 Bachelor's Projects
 
 | Project | Summary |
 | --- | --- |
