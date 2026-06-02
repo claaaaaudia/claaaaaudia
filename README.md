@@ -10,6 +10,20 @@ You will find two repositories containing collections of my projects and labs.
 
 ---
 
+## 🌕 Master's Projects
+
+| Project | Summary |
+| --- | --- |
+| Data and Machine Learning | Prediction of road traffic conditions in Porto using Machine Learning. |
+| Network Services Engineering | Over-the-Top (OTT) multimedia streaming service. |
+| Software Requirements and Architectures | Web-based image editing platform with AI-powered and traditional features. |
+| Formal Verification | Rocq Exercises + Verification of the Ricart-Agrawala Algorithm in Why3 |
+| Cyber-Physical Programming | System Modelling using UPPAAL and Monads |
+| Software Defined Networks | Dynamic Network Slicing with Traffic Shaping |
+| New Network Paradigms | Vehicular Network implementation for cooperative traffic management |
+
+---
+
 ## 🌟 Bachelor's Projects
 
 | Project | Summary |
@@ -22,36 +36,6 @@ You will find two repositories containing collections of my projects and labs.
 | Language & Compiler Processing | Text data processing plus a custom imperative language compiler. |
 | Interaction & Concurrency | Quantum computing and reactive systems assignments. |
 | Concurrent Programming | Multiplayer client-server dueling game (Java + Erlang). |
-
----
-
-## 🌕 Master's Projects
-
-| Project | Summary |
-| --- | --- |
-| Data and Machine Learning | Prediction of road traffic conditions in Porto using Machine Learning. |
-| Network Services Engineering | Over-the-Top (OTT) multimedia streaming service. |
-| Software Requirements and Architectures | Web-based image editing platform with AI-powered and traditional features. |
-| Formal Verification | *Coming soon* |
-| Cyber-Physical Programming | *Coming soon* |
-| Software Defined Networks | *Coming soon* |
-| New Network Paradigms | *Coming soon* |
-
----
-
-Here are some highlights I recommend you check:
-
-### 🧠 Computational Logic
-A set of 4 practical assignments exploring **formal methods and verification**.  
-Available in the **BSc Computer Science** repository.
-
-### 🧮 Algebra of Programming
-Focused on **formal and algebraic approaches** to program construction using **Haskell**.  
-Available in the **BSc Computer Science** repository.
-
-### 🚦 Data and Machine Learning
-Predicting **road traffic conditions in Porto** using **Machine Learning** techniques and real-world data.  
-Available in the **MSc Informatics Engineering** repository.
 
 ---
 
