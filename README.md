@@ -33,8 +33,8 @@ You will find two repositories containing collections of my projects and labs.
 | Object-Oriented Programming | Java fitness application with profiles, plans, and statistics. |
 | Computational Logic | SAT, Z3, verification, and hybrid systems practical assignments. |
 | Databases | Olympic Games database design and implementation project. |
-| Language & Compiler Processing | Text data processing plus a custom imperative language compiler. |
-| Interaction & Concurrency | Quantum computing and reactive systems assignments. |
+| Language & Compiler Processing | Text data processing + Custom imperative language compiler. |
+| Interaction & Concurrency | Quantum computing + Reactive systems assignments. |
 | Concurrent Programming | Multiplayer client-server dueling game (Java + Erlang). |
 
 ---
