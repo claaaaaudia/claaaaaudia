@@ -39,32 +39,7 @@ You will find two repositories containing collections of my projects and labs.
 
 ---
 
-## 🔒 Other Projects (Private / By Request)
-
-Some projects aren’t public yet, but I’m happy to discuss them:
-
-### 🤖 Arduino
-Week-long project at **Critical Software** learning the basics of **Robotics** and solving classical Arduino problems.
-
-### 🛰️ Simulating Satellite Communication Links with Ground Stations
-**Summer Internship at INESC TEC (July 2025).**  
-Studied how **parameters, modulation, and spread spectrum techniques** affect performance in critical systems (e.g., military, interference-prone).  
-*Repo not available, happy to talk about it!*
-
-### 🪐 Pocket+ Verification
-Reverse-engineering the **ESA patented POCKET+ compression algorithm** in Haskell to **formally prove correctness**.  
-Developed as part of **Project in Formal Methods of Programming**.  
-*Still in development, stay tuned!*
-
-### 🌐 Decentralized Mesh Network with Yggdrasil
-Implementation of a **Yggdrasil network** with **cryptographic & geometric routing**, including web services for robustness testing.  
-Will analyze **self-healing, performance, and QoS** compared to traditional networks.  
-Developed as part of **Project in Next Generation Networks**.  
-*Still in development, stay tuned!*
-
----
-
-## 🚀 More to Come
+## 🚀 Find Out More
 
 🔗 Check my **[LinkedIn](https://www.linkedin.com/)** to see what other projects I’m involved in.
 
