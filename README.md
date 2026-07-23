@@ -4,12 +4,6 @@ Welcome to my project showcase! Here you can explore my work from my **Bachelor�
 
 ---
 
-## 📂 Repositories
-
-You will find two repositories containing collections of my projects and labs.
-
----
-
 ## 🌕 Master's Projects
 
 | Project | Summary |
@@ -36,6 +30,16 @@ You will find two repositories containing collections of my projects and labs.
 | Language & Compiler Processing | Text data processing + Custom imperative language compiler. |
 | Interaction & Concurrency | Quantum computing + Reactive systems assignments. |
 | Concurrent Programming | Multiplayer client-server dueling game (Java + Erlang). |
+
+---
+
+## ☀️ Specialization Projects
+
+### Pocket+ 
+Final project of Formal Methods in Programming specialization. Reference Haskell implementation of Pocket+ (CCSDS 124.0-B-1 February 2023) for lossless compression of fixed-length spacecraft housekeeping telemetry, supporting correctness proofs via relational algebra. Still in development.
+
+### Yggdrasil Mesh Network 
+Final project of Next Generation Networks specialization. Implementation and evaluation of a decentralized mesh network using the Yggdrasil Network, emulated with CORE. Analysis of self-healing, performance, and QoS compared to traditional networks.
 
 ---
 
