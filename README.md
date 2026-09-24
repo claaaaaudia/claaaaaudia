@@ -10,7 +10,7 @@ Welcome to my project showcase! Here you can explore my work from my **Bachelor�
 | --- | --- |
 | Data and Machine Learning | Prediction of road traffic conditions in Porto using Machine Learning. |
 | Network Services Engineering | Over-the-Top (OTT) multimedia streaming service. |
-| Software Requirements and Architectures | Web-based image editing platform with AI-powered and traditional features. |
+| Software Requirements and Architectures | Systems Engineering approach to a web-based image editing platform. |
 | Formal Verification | Rocq Exercises + Verification of the Ricart-Agrawala Algorithm in Why3 |
 | Cyber-Physical Programming | System Modelling using UPPAAL and Monads |
 | Software Defined Networks | Dynamic Network Slicing with Traffic Shaping |
@@ -45,7 +45,7 @@ Final project of Next Generation Networks specialization. Implementation and eva
 
 ## 🚀 Find Out More
 
-🔗 Check my **[LinkedIn](https://www.linkedin.com/)** to see what other projects I’m involved in.
+🔗 Check my **[LinkedIn](https://www.linkedin.com/in/claudiarfaria/)** to see what other projects I’m involved in.
 
 ---
 
